@@ -1,6 +1,10 @@
 {
   "name": "havedrop",
-  "version": "0.1.0",
+  "version": "1.0.0",
+    "description": "Have Drop -Amazon Dropshipping Specialist",
+  "author": "Wasfi Mahasneh",
+  "license": "MIT",
+  "contributors": ["Sulejman.dev"],
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
